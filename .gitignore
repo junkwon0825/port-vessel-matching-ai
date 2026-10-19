@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 대회 원본 데이터 및 업로드 파일: 재배포 금지
+data/
+upload/
+*.zip
+
+# 학습 산출물과 예측 결과
+model/
+submit/model/
+results/
+output/
+evaluation_smoke/
+zip_smoke.*/
+*.joblib
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+
