@@ -7,7 +7,7 @@
 > 2026 항만 문제해결을 위한 AI 기술 공모전 · 3인 팀 프로젝트  
 > 주최: 해양수산부 · 주관: 울산항만공사 / 한국정보산업연합회 · 운영: 데이콘
 
-[대회 공식 페이지](https://dacon.io/competitions/official/236771/overview/description) · [포트폴리오 상세 문서](docs/PORTFOLIO_CASE_STUDY.md) · [실험 및 검증](docs/EXPERIMENTS.md)
+[포트폴리오 발표자료 PDF](presentation/Port_Vessel_Matching_AI_Portfolio.pdf) · [대회 공식 페이지](https://dacon.io/competitions/official/236771/overview/description) · [포트폴리오 상세 문서](docs/PORTFOLIO_CASE_STUDY.md) · [실험 및 검증](docs/EXPERIMENTS.md)
 
 ## 핵심 결과
 
@@ -131,6 +131,9 @@ port-vessel-matching-ai/
 ├── docs/
 │   ├── PORTFOLIO_CASE_STUDY.md
 │   └── EXPERIMENTS.md
+├── presentation/
+│   ├── Port_Vessel_Matching_AI_Portfolio.pdf
+│   └── README.md
 ├── requirements-dev.txt
 └── README.md
 ```
